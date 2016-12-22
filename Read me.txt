@@ -1,0 +1,5 @@
+The menu driven program has been coded and complied on Codeblocks. 
+It takes input message from a file, so when asked for a file name please input default file.txt or the name of user file
+w/o any blank spaces, make sure the user file is located in the same folder where the code file is located.
+
+Thank You.
